@@ -1,7 +1,7 @@
 <h2 align="center">
-# Ask me anything!
+ :dizzy: Ask me anything! :sparkles:<br><br>
 
-## [Ask a question](../../issues/new) &nbsp;&nbsp;&nbsp; [Read questions](../../issues?utf8=%E2%9C%93&q=is%3Aissue%20is%3Aclosed%20sort%3Aupdated-desc%20-label%3Ahidden)
+ <a href="../../issues/new">:speech_balloon: Ask a question</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="../../issues?q=is%3Aissue+is%3Aclosed+sort%3Aupdated-desc">:book: Read questions</a>
 </h2>
 
 Free free to ask me _anything_! It could be related to anything. If it's not too much personal, I will try to answer.
